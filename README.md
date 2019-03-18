@@ -1,7 +1,8 @@
 _Meeting 18 Maret 2019:_
 
-_# ALI_
-_## Migrate ChinaBuyBuy -> ALI_
+# _ALI_
+
+## 1. Migrate ChinaBuyBuy -> ALI
 
 - Create new tables in API-2 based on CBB
 - Change API calls mechanism
@@ -18,7 +19,7 @@ _## Migrate ChinaBuyBuy -> ALI_
 - My Products
 - Etc.
 
-_## Merge API 1 -> API 2_
+## 2. Merge API 1 -> API 2
 
 - Orders
 - Users
@@ -28,12 +29,12 @@ _## Merge API 1 -> API 2_
 - Invoices
 - Form Validation
 
-_## Documentation_
+## 3. Documentation
 
 - API-2
 - API-1
 
-_## Frontend Optimization_
+## 4. Frontend Optimization
 
 - Lazy Load
 - Invalidate older build
@@ -43,7 +44,7 @@ _## Frontend Optimization_
 
 ---
 
-# Frontend Optimization:
+# 4. Frontend Optimization:
 
 ## Lazy Load:
 
